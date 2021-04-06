@@ -1,0 +1,10 @@
+body{
+    background-color:rgb(81, 157, 211);
+
+    color: white;
+
+    font-family: 'Courier New', Courier, monospace;
+    
+    padding-left: 10 em;
+    padding-right: 10 em;
+}
